@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+dependency/
+
+# Built files
+dist/
+build/
+
+# Log files
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment configuration
+.env
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Ignore coverage directory
+coverage/
+
+# Ignore compiled binary files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore generated files for testing
+__snapshots__/
+*.snap
+
+# Ignore local database files
+*.sqlite
+
+# Ignore compiled TypeScript files
+*.tsbuildinfo
+
+# Ignore package-lock files
+package-lock.json
+
+# Ignore yarn lock files
+yarn.lock
+
+# Ignore configuration files
+*.config.js
+
+# Ignore runtime data files
+*.pid.lock
